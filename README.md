@@ -67,7 +67,7 @@ To deploy the app for production:
 ## 📸 Extra Screenshots
 
 <p align="center">
-  <img src="./screenshots/pc_meet_1.png" width="300" alt="PC Screenshot" style="margin-right: 10px;" />
+  <img src="./screenshots/pc_meet_1.png" width="600" alt="PC Screenshot" style="margin-right: 10px;" />
   <img src="./screenshots/2.jpeg" width="150" alt="Mobile Screenshot 1" style="margin-right: 10px;" />
   <img src="./screenshots/3.jpeg" width="150" alt="Mobile Screenshot 2" />
 </p>
