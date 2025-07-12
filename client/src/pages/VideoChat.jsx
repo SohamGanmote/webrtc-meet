@@ -71,7 +71,7 @@ export default function VideoChat() {
   const createPeer = () => {
     const peer = new RTCPeerConnection({
       iceServers: [{ urls: "stun:stun.l.google.com:19302" }, {
-        urls: "turn:182.70.124.187:3478",
+        urls: "turn:<IP-HERE>:3478",
         username: "fezzy",
         credential: "fezzy",
       },],
