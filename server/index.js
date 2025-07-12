@@ -29,7 +29,6 @@ io.on("connection", (socket) => {
 
 		const users = Array.from(io.sockets.adapter.rooms.get(roomCode) || []);
 		if (users.length > 1) {
-			// Notify the first user to create offer
 			io.to(users[0]).emit("ready");
 		}
 	});
