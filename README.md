@@ -53,17 +53,24 @@ To deploy the app for production:
 
 ## 📸 Screenshots ([Friend](https://github.com/yasinbhojani))
 
-| Create or Join a Meeting                | In-Call Controls                 |
-| --------------------------------------- | -------------------------------- |
-| ![Create or Join](./screenshots/1.jpeg) | ![In Call](./screenshots/4.jpeg) |
+<table>
+  <tr>
+    <th>Create or Join a Meeting</th>
+    <th>In-Call Controls</th>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/1.jpeg" width="150"/></td>
+    <td><img src="./screenshots/4.jpeg" width="150"/></td>
+  </tr>
+</table>
 
 ## 📸 Extra Screenshots
 
-| Description       | Screenshot                              |
-| ----------------- | --------------------------------------- |
-| Additional View 1 | ![Extra 1](./screenshots/pc_meet_1.png) |
-| Additional View 2 | ![Extra 2](./screenshots/2.jpeg)        |
-| Additional View 3 | ![Extra 2](./screenshots/3.jpeg)        |
+<p align="center">
+  <img src="./screenshots/pc_meet_1.png" width="300" alt="PC Screenshot" style="margin-right: 10px;" />
+  <img src="./screenshots/2.jpeg" width="150" alt="Mobile Screenshot 1" style="margin-right: 10px;" />
+  <img src="./screenshots/3.jpeg" width="150" alt="Mobile Screenshot 2" />
+</p>
 
 ---
 
