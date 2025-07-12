@@ -59,8 +59,8 @@ To deploy the app for production:
     <th>In-Call Controls</th>
   </tr>
   <tr>
-    <td><img src="./screenshots/1.jpeg" width="150"/></td>
     <td><img src="./screenshots/4.jpeg" width="150"/></td>
+    <td><img src="./screenshots/1.jpeg" width="150"/></td>
   </tr>
 </table>
 
